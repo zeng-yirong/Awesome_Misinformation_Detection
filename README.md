@@ -12,13 +12,16 @@ The repository for the survey paper "Detecting Misinformation Act III: A Survey 
   * Step-by-Step Fact Verification System for Medical Claims with Explainable Reasoning. _Vladika et al._ 2025. [[Paper](https://aclanthology.org/2025.naacl-short.68/)]
   * PCoT: Persuasion-Augmented Chain of Thought for Detecting Fake News and Social Media Disinformation. _Modzelewski et al._ 2025.  [[Paper](https://aclanthology.org/2025.acl-long.1215/)]
   * FactGuard: Event-Centric and Commonsense-Guided Fake News Detection. _He et al._ 2025. [[Paper](https://arxiv.org/abs/2511.10281)]
-  * Weakly supervised veracity classification with LLM-predicted credibility signals. _Leite et al._ 2025. [[Paper](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00465-2)]
+  * Weakly supervised veracity classification with LLM-predicted credibility signals. _Leite et al._ 2025. [[Paper](https://link.springer.com/article/10.1140/epjds/s13688-025-00534-0)]
+  * Improving the fact-checking performance of language models by relying on their entailment ability. _kumar et al._ 2025. [[Paper](https://arxiv.org/abs/2505.15050)]
 
 #### LLMs with RAG.
 
   * HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification. _Paudel et al._ 2025. [[Paper](https://arxiv.org/abs/2504.07069)]
-  * FIRE: Fact-checking with iterative retrieval and verification. _Xie et al._ 2025. [[Paper](https://aclanthology.org/2025.findings-naacl.196/)]
-  * +VeriRel: Verification feedback to enhance document retrieval for scientific fact checking. _Deng et al._ 2025. [[Paper](https://dl.acm.org/doi/10.1145/3627673.3679888)]
+  * FIRE: Fact-checking with iterative retrieval and verification. _Xie et al._ 2025. [[Paper](https://aclanthology.org/2025.findings-naacl.158/)]
+  * +VeriRel: Verification feedback to enhance document retrieval for scientific fact checking. _Deng et al._ 2025. [[Paper](https://dl.acm.org/doi/10.1145/3746252.3760822)]
+  * A dynamic knowledge update-driven model with large language models for fake news detection. _Jin et al._ 2025. [[Paper](https://arxiv.org/abs/2509.11687)]
+  * HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection. _Wu et al._ 2025. [[Paper](https://arxiv.org/abs/2511.14027)]
 
 ### LLMs with Context.
 
