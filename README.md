@@ -6,12 +6,13 @@ The repository for the survey paper "Detecting Misinformation Act III: A Survey 
 
 ### The Advances of MID with LLMs
 
-- LLM-based Content Veracity.
+#### LLM-based Content Veracity.
 
-  **Towards Real-Time Fake News Detection under Evidence Scarcity. _Wei et al._ 2025. [[Paper](https://arxiv.org/abs/2510.11277)]
+  * Towards Real-Time Fake News Detection under Evidence Scarcity. _Wei et al._ 2025. [[Paper](https://arxiv.org/abs/2510.11277)]
+  * Step-by-Step Fact Verification System for Medical Claims with Explainable Reasoning. _Vladika et al._ 2025. [[Paper](https://arxiv.org/abs/2502.14765)]
+  * 
 
-### LLMs with RAG.
-
+#### LLMs with RAG.
 ### LLMs with Context.
 
 ### LLMs with Multi-modal.
