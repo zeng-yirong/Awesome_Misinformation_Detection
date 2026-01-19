@@ -21,19 +21,22 @@ The repository for the survey paper "Detecting Misinformation Act III: A Survey 
   * FIRE: Fact-checking with iterative retrieval and verification. _Xie et al._ 2025. [[Paper](https://aclanthology.org/2025.findings-naacl.158/)]
   * +VeriRel: Verification feedback to enhance document retrieval for scientific fact checking. _Deng et al._ 2025. [[Paper](https://dl.acm.org/doi/10.1145/3746252.3760822)]
   * A dynamic knowledge update-driven model with large language models for fake news detection. _Jin et al._ 2025. [[Paper](https://arxiv.org/abs/2509.11687)]
+  * When retrieval outperforms generation: Dense evidence retrieval for scalable fake news detection. _Qazi et al._ 2025. [[Paper](https://aclanthology.org/2025.ldk-1.26/)]
   * HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection. _Wu et al._ 2025. [[Paper](https://arxiv.org/abs/2511.14027)]
 
 ### LLMs with Context.
 
   * Group-Adaptive Adversarial Learning for Robust Fake News Detection Against Malicious Comments. _Tong et al._ 2025. [[Paper](https://arxiv.org/abs/2510.09712)]
+  * Limited effectiveness of llm-based data augmentation for covid-19 misinformation stance detection. _Choi et al._ 2025. [[Paper](https://arxiv.org/abs/2503.02328)]
   * Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference. _Wang et al._ 2025. [[Paper](https://arxiv.org/abs/2512.01728)]
   * Exploring Large Language Models for Effective Rumor Detection on Social Media. _Zeng et al._ 2025. [[Paper](https://aclanthology.org/2025.naacl-long.128/)]
 
 ### LLMs with Multi-modal.
 
   * SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection. _Qi et al._ 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Qi_SNIFFER_Multimodal_Large_Language_Model_for_Explainable_Out-of-Context_Misinformation_Detection_CVPR_2024_paper.html)]
-  * TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection. _Yan et al._ 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.483/)]
+  * TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection. _Yan et al._ 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.284.pdf)]
   * Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes. _Lin et al._ 2025. [[Paper](https://arxiv.org/abs/2505.19582)]
+  * Towards explainable fake image detection with multi-modal large language models. _Ji et al._ 2025. [[Paper](https://arxiv.org/abs/2504.14245)]
 
 ### The Frontier Challenges of MID
 #### Detecting LLM-Generated Misinformation
