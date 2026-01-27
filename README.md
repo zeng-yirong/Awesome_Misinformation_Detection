@@ -17,7 +17,8 @@ Key evolutionary trends identified:
 
 Finally, we outline future research avenues, advocating for the development of **agentic detection systems** and defenses against **omni-modal deepfakes** to keep pace with the continuous evolution of AI.
 
-![](survey-tree.png)
+<img src="survey-tree.png" style="width:100%;" />
+
 
 ## 📄 Paper List
 
