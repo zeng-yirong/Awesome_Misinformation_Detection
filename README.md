@@ -59,29 +59,57 @@ Finally, we outline future research avenues, advocating for the development of *
 ### ⚔️ The Frontier Challenges of MID
 #### Detecting LLM-Generated Misinformation
 
+  * Synthetic lies: Understanding ai-generated misinformation and evaluating algorithmic and human solutions. _Zhou et al._ 2023. [[Paper](https://dl.acm.org/doi/10.1145/3544548.3581318)]
+  * Generative language models and automated influence operations: Emerging threats and potential mitigations. _Goldstein et al._ 2023. [[Paper](https://arxiv.org/abs/2301.04246)]
+  * On the risk of misinformation pollution with large language models. _Pan et al._ 2023. [[Paper](https://arxiv.org/abs/2305.13661)]
+  * Llm-generated fake news induces truth decay in news ecosystem: A case study on neural news recommendation. _Hu et al._ 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3730027)]
+  * Have LLMs Reopened the Pandora’s Box of AI-Generated Fake News?. _Wang et al._ 2025. [[Paper](https://aclanthology.org/2025.naacl-long.142/)]
   * Fake news in sheep's clothing: Robust fake news detection against LLM-empowered style attacks. _Wu et al._ 2024. [[Paper](https://dl.acm.org/doi/10.1145/3637528.3671977)]
   * Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection. _Park et al._ 2025. [[Paper](https://dl.acm.org/doi/10.1145/3696410.3714569)]
   * RetrieverGuard: Empowering Information Retrieval to Combat LLM-Generated Misinformation. _Chen et al._ 2025. [[Paper](https://aclanthology.org/2025.findings-naacl.249/)]
+  * SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models. _Manakul et al._ 2023. [[Paper](https://arxiv.org/abs/2303.08896)]
   * Zero-knowledge LLM hallucination detection and mitigation through fine-grained cross-model consistency. _Goel et al._ 2025. [[Paper](https://aclanthology.org/2025.emnlp-industry.139/)]
   * ReEval: Automatic Hallucination Evaluation for Retrieval-Augmented Large Language Models via Transferable Adversarial Attacks. _Yu et al._ 2024. [[Paper](https://aclanthology.org/2024.findings-naacl.85/)]
   * Consistency Is the Key: Detecting Hallucinations in LLM Generated Text By Checking Inconsistencies About Key Facts. _Gupta et al._ 2025. [[Paper](https://arxiv.org/abs/2511.12236)]
+  * A survey on proactive defense strategies against misinformation in large language models. _Liu et al._ 2025. [[Paper](https://aclanthology.org/2025.findings-acl.933/)]
 
 #### Detecting Deepfake Content
 
-  * Veritas: Generalizable deepfake detection via pattern-aware reasoning. _Tan et al._ 2025. [[Paper](https://arxiv.org/abs/2508.21048)]
-  * TruthLens: Visual Grounding for Universal DeepFake Reasoning. _Kundu et al._ 2025. [[Paper](https://arxiv.org/abs/2503.15867)]
+  * Deepfake generation and detection: A benchmark and survey. _Pei et al._ 2024. [[Paper](https://arxiv.org/abs/2403.17881)]
+  * Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes. _Lin et al._ 2025. [[Paper](https://arxiv.org/abs/2505.19582)]
+  * Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection. _Yermakov et al._ 2025. [[Paper](https://arxiv.org/abs/2503.19683)]
+  * TruthLens: Explainable DeepFake Detection for Face Manipulated and Fully Synthetic Data. _Kundu et al._ 2025. [[Paper](https://arxiv.org/abs/2503.15867)]
   * BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation. _Wen et al._ 2025. [[Paper](https://arxiv.org/abs/2505.12620)]
+  * Comprehensive layer-wise analysis of ssl models for audio deepfake detection. _El Kheir et al._ 2025.
+  * PIA: Deepfake Detection Using Phoneme-Temporal and Identity-Dynamic Analysis. _Datta et al._ 2025.
   * CAD: A General Multimodal Framework for Video Deepfake Detection via Cross-Modal Alignment and Distillation. _Du et al._ 2025. [[Paper](https://arxiv.org/abs/2505.15233)]
   * FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models. _Xu et al._ 2024. [[Paper](https://arxiv.org/abs/2410.02761)]
   * Spot the fake: Large multimodal model-based synthetic image detection with artifact explanation. _Wen et al._ 2025. [[Paper](https://arxiv.org/abs/2503.14905)]
+  * Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector. _Guo et al._ 2025.
 
 #### Detecting AI-Generated Text
 
+  * A survey of ai-generated text forensic systems: Detection, attribution, and characterization. _Kumarage et al._ 2024. [[Paper](https://arxiv.org/abs/2403.01152)]
   * The science of detecting LLM-generated text. _Tang et al._ 2024. [[Paper](https://dl.acm.org/doi/10.1145/3624725)]
+  * WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off. _Giboulot et al._ 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/21b5883bc8fec922fdbbb06675388164-Paper-Conference.pdf)]
+  * On the Empirical Power of Goodness-of-Fit Tests in Watermark Detection. _He et al._ 2025. [[Paper](https://arxiv.org/abs/2510.03944)]
+  * Dpic: Decoupling prompt and intrinsic characteristics for llm generated text detection. _Yu et al._ 2024.
   * Biscope: Ai-generated text detection by checking memorization of preceding tokens. _Guo et al._ 2024. [[Paper](https://openreview.net/forum?id=Hew2JSDycr)]
   * Deep kernel relative test for machine-generated text detection. _Song et al._ 2025. [[Paper](https://openreview.net/forum?id=z9j7wctoGV)]
+  * SeqXGPT: Sentence-level AI-generated text detection. _Wang et al._ 2023. [[Paper](https://arxiv.org/abs/2310.08903)]
+  * Multiscale positive-unlabeled detection of ai-generated texts. _Tian et al._ 2023. [[Paper](https://arxiv.org/abs/2305.18149)]
+  * Ghostbuster: Detecting text ghostwritten by large language models. _Verma et al._ 2023. [[Paper](https://arxiv.org/abs/2305.15047)]
+  * Radar: Robust ai-text detection via adversarial learning. _Hu et al._ 2023.
+  * Detective: Detecting ai-generated text via multi-level contrastive learning. _Guo et al._ 2024.
   * DNA-DetectLLM: Unveiling AI-Generated Text via a DNA-Inspired Mutation-Repair Paradigm. _Zhu et al._ 2025. [[Paper](https://arxiv.org/abs/2509.15550)]
   * Detecting machine-generated texts by multi-population aware optimization for maximum mean discrepancy. _Zhang et al._ 2024. [[Paper](https://arxiv.org/abs/2402.16041)]
+  * Intrinsic dimension estimation for robust detection of ai-generated texts. _Tulchinskii et al._ 2023.
+  * Fast-detectgpt: Efficient zero-shot detection of machine-generated text via conditional probability curvature. _Bao et al._ 2023. [[Paper](https://arxiv.org/abs/2310.05130)]
+  * Detectgpt: Zero-shot machine-generated text detection using probability curvature. _Mitchell et al._ 2023.
+  * Detectllm: Leveraging log rank information for zero-shot detection of machine-generated text. _Su et al._ 2023.
+  * Dna-gpt: Divergent n-gram analysis for training-free detection of gpt-generated text. _Yang et al._ 2023. [[Paper](https://arxiv.org/abs/2305.17359)]
+  * Spotting llms with binoculars: Zero-shot detection of machine-generated text. _Hans et al._ 2024. [[Paper](https://arxiv.org/abs/2401.12070)]
+  * Training-free LLM-generated Text Detection by Mining Token Probability Sequences. _Xu et al._ 2024. [[Paper](https://arxiv.org/abs/2410.06072)]
 
 ### 🌟 Future Direction
 #### Agentic Detection System
