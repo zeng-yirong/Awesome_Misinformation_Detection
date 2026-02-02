@@ -1,14 +1,14 @@
 # Awesome_Misinformation_Detection
-The repository for the survey paper "Detecting Misinformation Act III: A Survey of Advances, Frontiers in AIGC Era"
+The repository for the survey paper **"Detecting Misinformation Act III: A Survey of Advances, Frontiers in AIGC Era"**
 
 ## 💡 Introduction
-In recent years, the massive spread of misinformation (e.g., fake news, false claims) has undermined the reliability of online ecosystems. Misinformation Detection (MID) aims to identify and mitigate such content.
+In recent years, the massive spread of misinformation (e.g., fake news, false claims, rumor) has undermined the reliability of online ecosystems. Misinformation Detection (MID) aims to identify and mitigate such content.
 
 The rise of Large Language Models (LLMs) acts as a **double-edged sword** in this domain:
 - **Challenge**: LLMs enable the mass production of highly convincing misinformation.
 - **Opportunity**: LLMs provide powerful reasoning and retrieval tools to enhance detection systems.
 
-**"Detecting Misinformation Act III: A Survey of Advances, Frontiers in AIGC Era"** provides a comprehensive evolutionary perspective on the shifting landscape of misinformation detection. Unlike existing surveys that focus on isolated methodologies, this work bridges traditional paradigms with emerging AIGC challenges.
+Our work provides a comprehensive evolutionary perspective on the shifting landscape of misinformation detection. Unlike existing surveys that focus on isolated methodologies, this work bridges traditional paradigms with emerging AIGC challenges.
 
 Key evolutionary trends identified:
 1.  **Detection Focus**: A shift from surface-level linguistic patterns to **deep semantic reasoning**.
